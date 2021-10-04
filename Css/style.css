@@ -1,0 +1,19 @@
+body{
+    height: 100%;
+    background: rgb(121, 120, 120) ;
+    }
+    
+    header{
+        padding: 10px, 0px;
+       text-align: center;
+       background: floralwhite  ;
+       font-family:'Times New Roman', Times, serif;
+    }
+    
+    section{
+        column-count: 2;
+    }
+
+    .dropdown-menu{
+        height: 100%;
+    }
